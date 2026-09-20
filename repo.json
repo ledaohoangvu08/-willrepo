@@ -3,7 +3,7 @@
   "identifier": "com.hoangvz.willrepo",
   "name": "Will Repo",
   "description": "Nguồn package 3105 của hoanqvz.",
-  "icon": "https://raw.githubusercontent.com/ledaohoangvu08/-willrepo/main/assets/will-repo-icon.png",
+  "icon": "assets/repo-icon.png"
   "accentColor": "#ca9ee6",
   "packages": [
     {
