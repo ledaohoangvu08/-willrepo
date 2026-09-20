@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.hoangvz.willrepo",
   "name": "Will Repo",
-  "icon": "assets/will-repo-icon.png",
+  "icon": "https://raw.githubusercontent.com/ledaohoangvu08/-willrepo/main/assets/will-repo-icon.png",
   "description": "Nguồn package 3105 của hoanqvz.",
   "icon": "assets/will-repo-icon.png",
   "accentColor": "#ca9ee6",
