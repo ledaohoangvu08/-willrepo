@@ -64,7 +64,7 @@
       "category": "Free Fire",
       "tags": [
         "Free Fire",
-        "OB55"
+        "AIM"
       ],
       "download": "packages/BODY%20FFT%20-%20OB55.3105",
       "sha256": "91cc01d045b0ab1b0bc1bd7f7dadde3ea75c48082a8fd882bf598fd772751cf0",
@@ -87,7 +87,6 @@
       "category": "Free Fire",
       "tags": [
         "Free Fire",
-        "OB55",
         "AIM"
       ],
       "download": "packages/FOV%20-%20AIM%20-%20OB55.3105",
@@ -111,10 +110,9 @@
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max",
-        "OB55",
-        "MOD"
+        "AIM"
       ],
-      "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
+       "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
       "sha256": "21bef1496fde5c999350a187e6201b645b5dffc53c11641704d23013b73f1521",
       "supportedOS": [
         {
@@ -135,7 +133,7 @@
       "category": "Free Fire",
       "tags": [
         "Free Fire",
-        "OB55"
+        "AIM"
       ],
       "download": "packages/%C4%90%E1%BB%8Bnh%20V%E1%BB%8B%20FFT%20OB55.3105",
       "sha256": "95d5905167c40267a1870735238d19ed6becb925c39a8badff4673c693d51817",
