@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.hoangvz.willrepo",
   "name": "Will Repository",
-  "description": "Nguồn package 3105 của hoanqvz.",
+  "description": "@ledaohoangvu @iwiin.a",
   "icon": "assets/repo-icon.png",
   "accentColor": "#ca9ee6",
   "packages": [
@@ -108,7 +108,6 @@
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max",
-        "AIM"
       ],
        "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
       "sha256": "21bef1496fde5c999350a187e6201b645b5dffc53c11641704d23013b73f1521",
