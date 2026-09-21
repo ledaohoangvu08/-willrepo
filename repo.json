@@ -30,7 +30,7 @@
     },
     {
       "identifier": "aim-neck-fft-ob55",
-      "name": "NECK FFT - OB55",
+      "name": "NECK FREE FIRE - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "NECK FFT",
@@ -52,7 +52,7 @@
     },
     {
       "identifier": "body-fft-ob55",
-      "name": "BODY FFT - OB55",
+      "name": "BODY FREE FIRE - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "BODY FFT",
@@ -96,7 +96,7 @@
     },
     {
       "identifier": "thap-cam-ffm-ob55",
-      "name": "THẬP CẨM FFM - OB55",
+      "name": "3 IN 1 FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "THẬP CẨM FFM",
@@ -118,7 +118,7 @@
     },
     {
       "identifier": "dinh-vi-fft-ob55",
-      "name": "Định Vị FFT OB55",
+      "name": "Định Vị FREE FIRE OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "Định Vị FFT",
@@ -140,7 +140,7 @@
     },
     {
       "identifier": "body-ffm-ob55",
-      "name": "BODY FFM - OB55",
+      "name": "BODY FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "BODY FFM",
@@ -162,7 +162,7 @@
     },
     {
       "identifier": "drag-ffm-ob55",
-      "name": "DRAG FFM - OB55",
+      "name": "DRAG FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "DRAG FFM",
@@ -184,7 +184,7 @@
     },
     {
       "identifier": "neck-ffm-ob55",
-      "name": "NECK FFM - OB55",
+      "name": "NECK FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "NECK FFM",
@@ -206,7 +206,7 @@
     },
     {
       "identifier": "chest-ffm-ob55",
-      "name": "CHEST FFM - OB55",
+      "name": "CHEST FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "CHEST FFM",
@@ -228,7 +228,7 @@
     },
     {
       "identifier": "magic-ffm-ob55",
-      "name": "MAGIC FFM - OB55",
+      "name": "MAGIC FREE FIRE MAX - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "MAGIC FFM",
@@ -255,7 +255,7 @@
       "version": "2008",
       "summary": "MOD VIP FFM",
       "description": "ig : @iwiin.a",
-      "category": "Free Fire Max",
+      "category": "MOD",
       "tags": [
         "MOD"
       ],
@@ -272,7 +272,7 @@
     },
     {
       "identifier": "aim-slide-fft-ob55",
-      "name": "AIM SLIDE FFT - OB55",
+      "name": "AIM SLIDE FREE FIRE - OB55",
       "author": "hoanqvz",
       "version": "2008",
       "summary": "AIM SLIDE FFT",
@@ -297,7 +297,7 @@
       "name": "AIM SLIDE FFM - OB55",
       "author": "hoanqvz",
       "version": "2008",
-      "summary": "AIM SLIDE FFM",
+      "summary": "AIM SLIDE FREE FIRE MA",
       "description": "ig : @iwiin.a",
       "category": "Free Fire Max",
       "tags": [
@@ -321,7 +321,7 @@
       "version": "2008",
       "summary": "MOD VIP FFT",
       "description": "ig : @iwiin.a",
-      "category": "Free Fire",
+      "category": "MOD",
       "tags": [
         "MOD"
       ],
