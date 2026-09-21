@@ -10,7 +10,7 @@
       "identifier": "aim-chest-fft-ob55",
       "name": "CHEST FREE FIRE - OB55",
       "author": "hoanqvz",
-      "version": "OB55",
+      "version": "1.0.0",
       "summary": "CHEST FFT",
       "description": "ig : @iwiin.a",
       "category": "Free Fire",
@@ -22,7 +22,25 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "27.0"
+          "maximum": "17.7"
+        },
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
         }
       ],
       "featured": true,
