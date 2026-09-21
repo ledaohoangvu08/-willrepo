@@ -15,7 +15,7 @@
       "description": "Package 3105 - CHEST FFT OB55.",
       "category": "Free Fire",
       "tags": [
-        "Free Fire",
+        "Free Fire"
       ],
       "download": "packages/AIM%20CHEST%20FFT%20-%20OB55.3105",
       "sha256": "4000450feacbb9bc2088b4f68c2bd4427a4b68d82ebe564775d0dceb44fed761",
@@ -37,7 +37,7 @@
       "description": "Package 3105 - NECK FFT OB55.",
       "category": "Free Fire",
       "tags": [
-        "Free Fire",
+        "Free Fire"
       ],
       "download": "packages/AIM%20NECK%20FFT%20-%20OB55.3105",
       "sha256": "ff8996d54db38739eba2782b1ad67600d6c87794f06634f1b0ef9e69a517cbcb",
@@ -59,7 +59,7 @@
       "description": "Package 3105 - BODY FFT OB55.",
       "category": "Free Fire",
       "tags": [
-        "Free Fire",
+        "Free Fire"
       ],
       "download": "packages/BODY%20FFT%20-%20OB55.3105",
       "sha256": "91cc01d045b0ab1b0bc1bd7f7dadde3ea75c48082a8fd882bf598fd772751cf0",
@@ -81,7 +81,7 @@
       "description": "Package 3105 - FOV AIM OB55.",
       "category": "Free Fire",
       "tags": [
-        "Free Fire",
+        "Free Fire"
       ],
       "download": "packages/FOV%20-%20AIM%20-%20OB55.3105",
       "sha256": "d2e6c025ea447b8a3e3d580a781784d835c7bca0928a3fc769ed543e5fc17693",
@@ -103,9 +103,9 @@
       "description": "Package 3105 - THẬP CẨM FFM OB55.",
       "category": "Free Fire Max",
       "tags": [
-        "Free Fire Max",
+        "Free Fire Max"
       ],
-       "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
+      "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
       "sha256": "21bef1496fde5c999350a187e6201b645b5dffc53c11641704d23013b73f1521",
       "supportedOS": [
         {
@@ -125,10 +125,120 @@
       "description": "Package 3105 - Định Vị FFT OB55.",
       "category": "Free Fire",
       "tags": [
-        "Free Fire",
+        "Free Fire"
       ],
       "download": "packages/%C4%90%E1%BB%8Bnh%20V%E1%BB%8B%20FFT%20OB55.3105",
       "sha256": "95d5905167c40267a1870735238d19ed6becb925c39a8badff4673c693d51817",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "body-ffm-ob55",
+      "name": "BODY FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "BODY FFM",
+      "description": "Package 3105 - BODY FFM OB55.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "download": "packages/BODY%20FFM%20-%20OB55.3105",
+      "sha256": "6f581e734260b8251be211bd1764e5c2cc9433bc2f35554c6fe0e333f0d7053d",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "drag-ffm-ob55",
+      "name": "DRAG FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "DRAG FFM",
+      "description": "Package 3105 - DRAG FFM OB55.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "download": "packages/DRAG%20FFM%20-%20OB55.3105",
+      "sha256": "081cb33a989a0187db748d0b8813a952fa1534b721d257ac864399668ca900fc",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "neck-ffm-ob55",
+      "name": "NECK FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "NECK FFM",
+      "description": "Package 3105 - NECK FFM OB55.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "download": "packages/NECK%20FFM%20-%20OB55.3105",
+      "sha256": "cfa1347e4ad7c634376c92e4888333f2fecb2ed86f2e5d27ecec6cd25c90bb8e",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "chest-ffm-ob55",
+      "name": "CHEST FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHEST FFM",
+      "description": "Package 3105 - CHEST FFM OB55.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "download": "packages/CHEST%20FFM%20-%20OB55.3105",
+      "sha256": "ce7284381e8cccf0d93c22d174f6aa2f542c9a4df90fc4276fc9b98dad02f3ee",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "magic-ffm-ob55",
+      "name": "MAGIC FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "MAGIC FFM",
+      "description": "Package 3105 - MAGIC FFM OB55.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "download": "packages/MAGIC%20FFM%20-%20OB55.3105",
+      "sha256": "84b70a7f71aedb620c1b7e4625d928c6e2637bbc89dce4a9751f285152c41ed5",
       "supportedOS": [
         {
           "minimum": "17.0",
