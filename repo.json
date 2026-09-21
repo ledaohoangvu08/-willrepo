@@ -13,6 +13,7 @@
       "version": "2008",
       "summary": "CHEST FFT",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/aim-chest-fft-ob55.png",
       "category": "Free Fire",
       "tags": [
         "Free Fire"
@@ -35,12 +36,13 @@
       "version": "2008",
       "summary": "NECK FFT",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/aim-neck-fft-ob55.png",
       "category": "Free Fire",
       "tags": [
         "Free Fire"
       ],
       "download": "packages/AIM%20NECK%20FFT%20-%20OB55.3105",
-      "sha256": "ff8996d54db38739eba2782b1ad67600d6c87794f06634f1b0ef9e69a517cbcb",
+      "sha256": "ff8996d54db38739eba2f6d6e8b3f2b5f3f4f4f06634f1b0ef9e69a517cbcb",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -57,6 +59,7 @@
       "version": "2008",
       "summary": "BODY FFT",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/body-fft-ob55.png",
       "category": "Free Fire",
       "tags": [
         "Free Fire"
@@ -79,6 +82,7 @@
       "version": "2008",
       "summary": "FOV - AIM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/fov-aim-ob55.png",
       "category": "Free Fire",
       "tags": [
         "Free Fire"
@@ -101,6 +105,7 @@
       "version": "2008",
       "summary": "THẬP CẨM FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/thap-cam-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
@@ -123,6 +128,7 @@
       "version": "2008",
       "summary": "Định Vị FFT",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/dinh-vi-fft-ob55.png",
       "category": "Free Fire",
       "tags": [
         "Free Fire"
@@ -145,6 +151,7 @@
       "version": "2008",
       "summary": "BODY FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/body-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
@@ -167,6 +174,7 @@
       "version": "2008",
       "summary": "DRAG FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/drag-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
@@ -189,6 +197,7 @@
       "version": "2008",
       "summary": "NECK FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/neck-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
@@ -211,6 +220,7 @@
       "version": "2008",
       "summary": "CHEST FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/chest-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
@@ -233,6 +243,7 @@
       "version": "2008",
       "summary": "MAGIC FFM",
       "description": "ig : @iwiin.a",
+      "icon": "assets/icons/magic-ffm-ob55.png",
       "category": "Free Fire Max",
       "tags": [
         "Free Fire Max"
