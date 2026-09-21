@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.hoangvz.willrepo",
-  "name": "Will Repo",
+  "name": "Will Repository",
   "description": "Nguồn package 3105 của hoanqvz.",
   "icon": "assets/repo-icon.png",
   "accentColor": "#ca9ee6",
