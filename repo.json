@@ -335,6 +335,160 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "ba-kai-ffm-v2-ob55",
+      "name": "BÁ KAI FFM V2 - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "BÁ KAI FFM V2",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/BÁ%20KAI%20FFM%20V2%20-%20OB55.3105",
+      "sha256": "eba6d318450856b678c9b43260c8f20973aa806f88dcf40dd491d0af3a4a3662",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ba-kai-fft-ob55",
+      "name": "BÁ KAI FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "BÁ KAI FFT",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/BA%CC%81%20KAI%20FFT%20-%20OB55.3105",
+      "sha256": "b868c406c54a58d1727d9660411cc589ec1dd1c61fdb34851d316da9b4fd09a1",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "vbtt-tieu-tien-ffm-ob55",
+      "name": "VBTT - TIỂU TIÊN FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "VBTT - TIỂU TIÊN FFM",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/VBTT%20-%20TIE%CC%82%CC%89U%20TIE%CC%82N%20FFM%20-%20OB55.3105",
+      "sha256": "23d60a6e3d38cf39a7f26187ae662fce3882f9d4e52adcf0e695281815662f58",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ba-kai-fft-v2-ob55",
+      "name": "BÁ KAI FFT V2 - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "BÁ KAI FFT V2",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/BA%CC%81%20KAI%20FFT%20V2%20-%20OB55.3105",
+      "sha256": "f994da26e0646ed4f31b9dfe11b4fe3051e5fc76b08c453325d83590cb0cefb0",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "do-ngu-fft-ob55",
+      "name": "ĐỒ NGỦ FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "ĐỒ NGỦ FFT",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/%C4%90O%CC%82%CC%80%20NGU%CC%89%20FFT%20-%20OB55.3105",
+      "sha256": "61790b510163f1d71c8ff2f5f7cdf888612b5d8e30bafbd557869241bf4a9e49",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "do-ngu-ffm-ob55",
+      "name": "ĐỒ NGỦ FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "ĐỒ NGỦ FFM",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/%C4%90O%CC%82%CC%80%20NGU%CC%89%20FFM%20-%20OB55.3105",
+      "sha256": "79ad53b982d5589a6a5c9edef196ffa9a7012bb2b71f18b088935d2c036a13e7",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "vbtt-tieu-tien-fft-ob55",
+      "name": "VBTT - TIỂU TIÊN FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "VBTT - TIỂU TIÊN FFT",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": [
+        "MOD"
+      ],
+      "download": "packages/VBTT%20-%20TIE%CC%82%CC%89U%20TIE%CC%82N%20FFT%20-%20OB55.3105",
+      "sha256": "91d3c55220934cb4f64a320900ce79fd72fea8c7ef5b311c921cc8a8d7d972",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
