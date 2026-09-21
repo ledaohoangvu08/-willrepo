@@ -8,11 +8,11 @@
   "packages": [
     {
       "identifier": "aim-chest-fft-ob55",
-      "name": "AIM CHEST FFT - OB55",
+      "name": "CHEST FFT - OB55",
       "author": "hoanqvz",
       "version": "OB55",
-      "summary": "AIM CHEST FFT",
-      "description": "Package 3105 - AIM CHEST FFT OB55.",
+      "summary": "CHEST FFT",
+      "description": "Package 3105 - CHEST FFT OB55.",
       "category": "Free Fire",
       "tags": [
         "Free Fire",
@@ -32,11 +32,11 @@
     },
     {
       "identifier": "aim-neck-fft-ob55",
-      "name": "AIM NECK FFT - OB55",
+      "name": "NECK FFT - OB55",
       "author": "hoanqvz",
       "version": "OB55",
-      "summary": "AIM NECK FFT",
-      "description": "Package 3105 - AIM NECK FFT OB55.",
+      "summary": "NECK FFT",
+      "description": "Package 3105 - NECK FFT OB55.",
       "category": "Free Fire",
       "tags": [
         "Free Fire",
