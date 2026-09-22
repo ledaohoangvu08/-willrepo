@@ -113,8 +113,8 @@
       "version": "2008",
       "summary": "Dinh Vi FFT",
       "description": "ig : @iwiin.a",
-      "category": "Định Vị",
-      "tags": ["Định Vị"],
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
       "download": "packages/Dinh%20Vi%20FREE%20FIRE%20-%20OB55.3105",
       "sha256": "95d5905167c40267a1870735238d19ed6becb925c39a8badff4673c693d51817",
       "supportedOS": [
@@ -397,6 +397,86 @@
       "tags": ["MOD"],
       "download": "packages/DO%20NGU%20FFT%20-%20OB55.3105",
       "sha256": "61790b510163f1d71c8ff2f5f7cdf888612b5d8e30bafbd557869241bf4a9e49",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "chams-vip-ffm-ob55",
+      "name": "CHAMS VIP FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHAMS VIP FFM",
+      "description": "ig : @iwiin.a",
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
+      "download": "packages/CHAMS%20VIP%20FFM%20-%20OB55.3105",
+      "sha256": "9b87255b03cdf7cf67eefbd18106457305fcd369152787fcf112fb29538c70b9",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "chams-vip-fft-v2-ob55",
+      "name": "CHAMS VIP FFT V2 - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHAMS VIP FFT V2",
+      "description": "ig : @iwiin.a",
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
+      "download": "packages/CHAMS%20VIP%20FFT%20V2%20-%20OB55.3105",
+      "sha256": "f244bbfb5da05245fb0d64b184f626175d0074fcf075be2b59f36baac4145c3c",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "chams-vip-ffm-v2-ob55",
+      "name": "CHAMS VIP FFM V2 - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHAMS VIP FFM V2",
+      "description": "ig : @iwiin.a",
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
+      "download": "packages/CHAMS%20VIP%20FFM%20V2%20-%20OB55.3105",
+      "sha256": "5f8f2bd65e6b0111590eef5a2f01d1440897f6cf04ef56b56665b6d472b8b3c8",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "chams-vip-fft-ob55",
+      "name": "CHAMS VIP FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHAMS VIP FFT",
+      "description": "ig : @iwiin.a",
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
+      "download": "packages/CHAMS%20VIP%20FFT%20-%20OB55.3105",
+      "sha256": "11a2cac5312764459bab2d1393147adafb568badd75d6b545ecd4b59996b1015",
       "supportedOS": [
         {
           "minimum": "17.0",
