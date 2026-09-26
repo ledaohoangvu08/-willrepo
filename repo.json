@@ -525,6 +525,26 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "dan-thang-ffm-ob55",
+      "name": "DAN THANG FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "DAN THANG FFM",
+      "description": "ig : @iwiin.a",
+      "category": "Free Fire Max",
+      "tags": ["Free Fire Max"],
+      "download": "packages/DAN%20THANG%20FFM%20-%20OB55.3105",
+      "sha256": "eb6aca79d1f1b4f7a1fda71019142120017ffa6eab44219bae999824264b4083",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
