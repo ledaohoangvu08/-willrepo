@@ -545,6 +545,46 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "mod-brazil-ffm-ob55",
+      "name": "MOD BRAZIL FFM - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "MOD BRAZIL FFM",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": ["MOD"],
+      "download": "packages/MOD%20BRAZIL%20FFM%20-%20OB55.3105",
+      "sha256": "c515f115ba606c174288219767480c50dbbbe9903324dc75de3fcd85a40edbed",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "mod-brazil-fft-ob55",
+      "name": "MOD BRAZIL FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "MOD BRAZIL FFT",
+      "description": "ig : @iwiin.a",
+      "category": "MOD",
+      "tags": ["MOD"],
+      "download": "packages/MOD%20BRAZIL%20FFT%20-%20OB55.3105",
+      "sha256": "1f4bf7f498f3279c3dbbb87ffa301f1b152f7bde54fedc125bbad6689b913ac5",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
