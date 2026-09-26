@@ -485,6 +485,26 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "chams-human-fft-ob55",
+      "name": "CHAMS HUMAN FFT - OB55",
+      "author": "hoanqvz",
+      "version": "2008",
+      "summary": "CHAMS HUMAN FFT",
+      "description": "ig : @iwiin.a",
+      "category": "CHAMS",
+      "tags": ["CHAMS"],
+      "download": "packages/CHAMS%20HUMAN%20FFT%20-%20OB55.3105",
+      "sha256": "7671b6a2295cafc1a2343949f50bfe2d139406b4c15b0b1bcbe04e0152fe15ff",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
